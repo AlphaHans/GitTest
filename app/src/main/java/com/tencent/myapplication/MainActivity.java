@@ -70,6 +70,8 @@ public class MainActivity extends AppCompatActivity
         // master 2
 
         // v1.4-hotfix
+
+        /// v1.5
     }
 
     @Override
