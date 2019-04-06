@@ -52,6 +52,12 @@ public class MainActivity extends AppCompatActivity
         // master分支提交补丁2
 
         // master分支提交新代码
+        
+        // 开发分支v1.1 开始开发v1.1需求
+        
+        // v1.1 提交开发需求:XXXX
+        
+        // 替换TRAE库
     }
 
     @Override
