@@ -58,6 +58,8 @@ public class MainActivity extends AppCompatActivity
         // v1.1 提交开发需求:XXXX
         
         // 替换TRAE库
+
+        // dev1.2 修改
     }
 
     @Override
