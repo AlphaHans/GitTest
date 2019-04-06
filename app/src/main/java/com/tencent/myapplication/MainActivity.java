@@ -69,11 +69,7 @@ public class MainActivity extends AppCompatActivity
         
         // master 2
 
-<<<<<<< .merge_file_ipEgB1
-        
-=======
         // v1.4-hotfix
->>>>>>> .merge_file_Ylawdi
     }
 
     @Override
