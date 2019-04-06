@@ -63,10 +63,11 @@ public class MainActivity extends AppCompatActivity
         
         // dev-1.3修改
 
-        // master 1
-
-        // master 2
+        // release-v1.3一处bug修改
         
+        // master 1
+        
+        // master 2
     }
 
     @Override
