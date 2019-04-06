@@ -44,8 +44,6 @@ public class MainActivity extends AppCompatActivity
         //2
 
         //3
-
-        // 发布流 release 补丁
     }
 
     @Override
